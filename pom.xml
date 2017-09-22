@@ -14,7 +14,9 @@
         <module>config-server</module>
 		<module>config-client</module>
         <module>gateway</module>
-    </modules>
+		<module>hystrixdashboard</module>
+		<module>turbine</module>
+	</modules>
 	<name>discovery-server</name>
 	<description>Demo project for Spring Boot</description>
 
